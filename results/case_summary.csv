@@ -1,0 +1,5 @@
+case,unit,total_steps_simulated,ctsf_detection_point_simulated,TS_at_start,TS_at_final_step
+BenefitMall,day,130,8,0.942,0.011
+MGM,hour,72,5,0.873,0.147
+Twilio,session,6,1,0.772,0.186
+PayrollPirates,session,3,1,0.772,0.186
